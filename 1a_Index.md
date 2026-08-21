@@ -31,7 +31,17 @@ Part-5
 5) unpacking
 
 ----------------------
+Part-6-Modules
 
+part-7-datetime modules
+
+--------
+
+Part_8_Packages
+
+1) importing and using packages
+2) installing and using third party packages
+3) __name__ and __main__
 
 
 
